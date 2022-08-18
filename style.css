@@ -1,0 +1,41 @@
+div {
+  width: 80px;
+  height: 80px;
+  margin: 20px;
+  background: white;
+}
+.img-size{
+  width: 300px;
+  height: 60px;
+  margin-left: 350px;
+}
+
+.sen-size{
+  width: 1000px;
+  height: 80px;
+  margin-left: 10px;
+  background: white;
+  border: 1px solid white;
+  display: inline-block;
+  text-align-last: center;
+  font-size: 250%;
+  font-weight: 700;
+  color: rgb(5, 39, 151);
+  position: relative;
+  line-height: 70px;
+}
+
+.subject {
+  width: 1000px;
+  height: 80px;
+  margin-left: 10px;
+  background: white;
+  border: 1px solid white;
+  display: inline-block;
+  text-align-last: center;
+  font-size: 300%;
+  font-weight: 700;
+  color: rgb(209, 40, 40);
+  position: relative;
+  line-height: 70px;
+}
